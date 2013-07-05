@@ -1,0 +1,18 @@
+/*************************************************************
+
+Program:	Hello World
+
+File:		Hello.cpp
+
+Function:	Main (complete program listing in this file)
+
+Description:	Prints the words "Hello world" to the screen
+
+Author:		Shungoh Kaetsu (sk)
+
+Environment:	GCC 4.8.1, i686 2Gb RAM, GNU/Linux
+
+Notes:		This is an introductory, sample program.
+
+*************************************************************/
+
